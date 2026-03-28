@@ -1,0 +1,9 @@
+public class opetators {
+    public static void main(String[] args) {
+        
+        int a = 8;
+        a = a <<1;
+        
+        System.out.println(a);
+    }
+}
