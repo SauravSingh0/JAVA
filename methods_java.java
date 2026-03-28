@@ -6,8 +6,6 @@ public class methods_java{
   public static void main(String[] args) {
     // Call the welcome method here
     welcomeMessage();
-    welcomeMessage();
-    welcomeMessage();
 }
 }
 
