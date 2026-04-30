@@ -1,3 +1,4 @@
+//Java program to demonstrate the use of switch statement.
 public class switch_statement {
     public static void main(String[] args) {
         int num = 2;

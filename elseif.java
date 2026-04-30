@@ -1,3 +1,4 @@
+//This program demonstrates the use of if-else statements in Java.
 public class elseif {
     public static void main(String[] args) {
         int x = 20;
